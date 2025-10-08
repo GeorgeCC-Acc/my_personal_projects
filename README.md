@@ -1,2 +1,2 @@
-# my_personal_projects
-Here is a repo of personal projects i have completed when learning a new language/ for fun.
+# Taco HTML Project
+A HTML project I did after following a 4 hour tutorial online.
